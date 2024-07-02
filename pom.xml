@@ -41,7 +41,7 @@
     <maven.compiler.testRelease>17</maven.compiler.testRelease>
 
     <!-- override to set exclusions per-project -->
-    <errorprone.args />
+    <errorprone.args/>
     <errorprone.version>2.27.1</errorprone.version>
 
     <zipkin-proto3.version>1.0.0</zipkin-proto3.version>
@@ -72,7 +72,7 @@
     <mariadb-java-client.version>3.4.0</mariadb-java-client.version>
     <HikariCP.version>5.1.0</HikariCP.version>
     <slf4j.version>2.0.13</slf4j.version>
-    <auto-value.version>1.10.4</auto-value.version>
+    <auto-value.version>1.11.0</auto-value.version>
     <git-commit-id.version>4.9.10</git-commit-id.version>
 
     <!-- Test only dependencies -->
